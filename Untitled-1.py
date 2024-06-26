@@ -1,0 +1,1 @@
+print('ingrese el nombre del alumno')
